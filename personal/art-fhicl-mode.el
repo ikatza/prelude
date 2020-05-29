@@ -109,7 +109,7 @@
         synTable))
 
 ;; indentation
-(defvar art-fhicl-indent-offset 3
+(defvar art-fhicl-indent-offset 2
   "*Indentation offset for `art-fhicl-mode'.")
 
 (defun art-fhicl-indent-line()
