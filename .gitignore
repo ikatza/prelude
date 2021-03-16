@@ -32,5 +32,6 @@ transient/
 # personal additions
 .persistent-scratch
 
-
-
+var/
+.cache/
+.lsp-session*
